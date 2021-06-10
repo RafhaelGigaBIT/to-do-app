@@ -2,7 +2,7 @@
 
 # Instalando dependencias
 Instale o django usando pip 
-## pip install django
+### pip install django
 
 <h2>Entre na pasta do projeto e rode a seguinte linha</h2>
 
